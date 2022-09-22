@@ -1,0 +1,7 @@
+E:\Rider Projects\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+E:\Rider Projects\DecimalToBinary\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+E:\Rider Projects\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.AssemblyReference.cache
+E:\Rider Projects\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.SuggestedBindingRedirects.cache
+E:\Rider Projects\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.CoreCompileInputs.cache
+E:\Rider Projects\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+E:\Rider Projects\DecimalToBinary\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
